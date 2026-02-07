@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Clock to out7. Clock/4 to out 0.
+Clock to out7. Clock/4 to out 0. 
 
 ## How to test
 
-Explain how to use your project
+In0 is low, wait for 4s. Change In0 to high, press rst for 1 second.
 
 ## External hardware
 
